@@ -23,6 +23,7 @@ img{
 a{
     background-color:rgba(255, 255, 255, 0.1);
     color:#3110ec;
+    font-size: 22px;
 }
 div p{
     color: blue;
