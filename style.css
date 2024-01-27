@@ -1,0 +1,49 @@
+*{
+    background-color:#5555ff55 ;
+    color: blue;
+    font-family:Monospace,serif;
+}
+h1{
+    background-color:#6666ff55;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+h2{
+    background-color: #573bfa55;
+    font-size: 28px;
+    text-align: center;
+    color:rgb(25, 25, 252) ;
+}
+img{
+    text-align: center;
+    height: auto;
+    width: 500px;
+}
+a{
+    background-color:rgba(255, 255, 255, 0.1);
+    color:#3110ec;
+}
+div p{
+    color: blue;
+    font-size:22px;
+    background-color:transparent;
+}
+div{
+   background-color:#5555ff15 ;
+}
+ul{
+    background-color: #5555ff10;
+}
+li,small,sup,sub{
+    background-color: transparent;
+}
+li{
+    font-size: 20px;
+}
+ol{
+    background-color: #5555ff16;
+}
+strong{
+    background-color:#5555ff20;
+}
