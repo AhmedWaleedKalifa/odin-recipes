@@ -2,49 +2,88 @@
     background-color:#5555ff55 ;
     color: blue;
     font-family:Monospace,serif;
+    margin: 0;
+    padding: 0;
 }
 h1{
-    background-color:#6666ff55;
+    background-color:#6666ff66;
     font-size: 40px;
     font-weight: 800;
     text-align: center;
+    margin-bottom: 20px;
+}
+.title{
+    margin-bottom:30px;
 }
 h2{
     background-color: #573bfa55;
     font-size: 28px;
     text-align: center;
-    color:rgb(25, 25, 252) ;
+    color:rgb(25, 25, 252);
+    margin:10px;
+    padding: 10px;
+   
 }
 img{
     text-align: center;
     height: auto;
     width: 500px;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid rgb(143, 143, 184);
 }
-a{
-    background-color:rgba(255, 255, 255, 0.1);
+ a{
     color:#3110ec;
-    font-size: 22px;
+    background-color: transparent;
+    font-size: 20px;
+    display: block;
+    margin:10px auto ;
+    text-align: center;
+    padding:5px;
+    width: 350px;
 }
 div p{
+    background-color: #8f8fe510;
     color: blue;
     font-size:22px;
     background-color:transparent;
+    width: auto;
+    text-align: center;
+    margin: 20px;
 }
 div{
-   background-color:#5555ff15 ;
+   background-color:transparent ;
 }
-ul{
-    background-color: #5555ff10;
+ul,ol{
+    background-color: transparent;
+    padding: 20px 20px 20px 50px;
+    margin-left: 30px;
 }
 li,small,sup,sub{
     background-color: transparent;
 }
 li{
     font-size: 20px;
+    margin:0 0 0 50px;
+}
+
+strong{
+    background-color:#f0f0f020;
+}
+.container{
+    width: auto;
+    margin: 0 auto;
+    background-color: transparent;
 }
 ol{
-    background-color: #5555ff16;
+    margin-left: 50px;
+    margin-bottom:50px;
+}
+.chef{
+
 }
 strong{
-    background-color:#5555ff20;
+    color: darkred;
+    /* border: 1px solid #dadae030; */
+    padding: 1px;
 }
